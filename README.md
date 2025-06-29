@@ -21,3 +21,6 @@ Interagis en saisissant une valeur dans le moniteur série
 Pour aller plus loin :
 - câble le deuxième moteur
 - code pour pouvoir piloter également le deuxième moteur
+
+
+![image](https://github.com/user-attachments/assets/bba78b49-aded-47bd-ae2c-2104c323bc9a)
