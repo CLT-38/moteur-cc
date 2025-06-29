@@ -9,7 +9,8 @@ Matériel nécessaire :
 - Pont en H
 - un ou deux moteurs courant continu
 - des câbles
-- un PC
+- un PC pour brancher l'Arduino
+- Boitier avec pile 9V - remets bien l'interrupteur sur OFF quand tu as fini
 
 Logiciel nécessaire :
 - Arduino IDE
