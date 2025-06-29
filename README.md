@@ -13,6 +13,7 @@ Logiciel nécessaire :
 - Arduino IDE
 - le [fichier source INO](cc-moteur.ino)
 
+Lis [cette page](https://arduino.blaisepascal.fr/pont-en-h-l298n/) et regarde bien les schémas du pont en h et de ses connexions avec l'arduino
 
 Téléverse le programme.
 Interagis en saisissant une valeur dans le moniteur série
